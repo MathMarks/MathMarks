@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MathMarks
-- 👀 I’m interested in Exploring the World. XD
-- 🌱 I’m currently learning Flutter, JS, Dart, NodeJS, Data Science and some other little things.
-- 💞️ I’m looking to collaborate in anything that i can help. 
+- 👋 Allo
+- 🌱 I’m currently learning Django, Generative AI and React.
 - 📫 How to reach me: maybe send me an email on: matheusmarques.j@gmail.com
 
 <!---
